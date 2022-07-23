@@ -2,7 +2,8 @@
 int main()    
 {    
  int n1,n2,n3,i,n;    
- printf("Enter the number of elements:");    
+ printf("Enter the number of elements:");  
+ printf("enter digit);
  scanf("%d",&n);    
  printf("\n%d %d",n1,n2);    
  for(i=0;i<n;i++)  
@@ -12,5 +13,5 @@ int main()
   n1=n2;    
   n2=n3;    
  }  
-  //return 0;  
+  //return 0; 
  }
